@@ -1,5 +1,5 @@
 package algorism;
-
+ 
 import java.util.Scanner;
 //최대값, 위치
 public class Test1101_2562 {

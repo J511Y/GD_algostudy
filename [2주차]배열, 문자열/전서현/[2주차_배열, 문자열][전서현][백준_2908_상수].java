@@ -1,7 +1,7 @@
 package algorism;
 
 import java.util.Scanner;
-
+ 
 public class Test1101_2908»ó¼ö {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
