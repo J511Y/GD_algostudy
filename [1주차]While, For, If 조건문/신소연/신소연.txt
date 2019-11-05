@@ -1,1 +1,46 @@
-��������������?
+https://trello.com/yonghejo/boards // 트렐로 사이트
+https://github.com/J511Y/GD_algostudy // 깃허브
+
+//cd
+cd D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연
+cd D:\방과후\알고리즘 스터디 중급반\GD_algostudy
+
+//upstream 설정
+git remote add upstream https://github.com/J511Y/GD_algostudy.git
+git remote remove upstream
+
+//깃 설정
+// 클론
+git clone https://github.com/bhb0047/GD_algostudy.git
+// 사용자 설정
+git config --global user.name "bhb0047"
+git config --global user.email bhb0047@gmail.com
+
+git config --global user.name ""
+git config --global user.email ""
+
+// 깃에 푸시하기 전 순서 branch -> pull -> push
+//branch
+git branch
+git checkout -b new_bransh
+git checkout new_branch // new_branch로 가기
+git push origin new_branch // 변경사항을 origin에 저장
+git checkout master // master로 돌아오기
+
+git branch -d new_branch // 가지 삭제
+
+//pull
+git pull 
+// ? // git merge 
+
+// push
+cd [경로]
+git add *
+git commit -m 'message'
+git push
+
+// 컴퓨터 끄기 전 확인
+(크롬)구글 로그아웃?
+백준 로그아웃?
+트렐로 로그아웃?
+네이버 로그아웃?

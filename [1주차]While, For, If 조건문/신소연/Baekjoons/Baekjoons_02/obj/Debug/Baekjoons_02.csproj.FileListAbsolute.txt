@@ -1,0 +1,14 @@
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\bin\Debug\Baekjoons_2.exe.config
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\bin\Debug\Baekjoons_2.exe
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\bin\Debug\Baekjoons_2.pdb
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\obj\Debug\Baekjoons_02.csproj.CoreCompileInputs.cache
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\obj\Debug\Baekjoons_2.exe
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\obj\Debug\Baekjoons_2.pdb
+D:\방과후\알고리즘 스터디 중급반\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_2\obj\Debug\Baekjoons_02.csprojAssemblyReference.cache
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\bin\Debug\Baekjoons_2.exe.config
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\bin\Debug\Baekjoons_2.exe
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\bin\Debug\Baekjoons_2.pdb
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\obj\Debug\Baekjoons_02.csprojAssemblyReference.cache
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\obj\Debug\Baekjoons_02.csproj.CoreCompileInputs.cache
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\obj\Debug\Baekjoons_2.exe
+D:\2019\SecondSemester\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\Baekjoons_02\obj\Debug\Baekjoons_2.pdb

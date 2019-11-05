@@ -1,0 +1,7 @@
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\bin\Debug\AlgorithmPractice.exe.config
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\bin\Debug\AlgorithmPractice.exe
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\bin\Debug\AlgorithmPractice.pdb
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\obj\Debug\AlgorithmPractice.csprojAssemblyReference.cache
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\obj\Debug\AlgorithmPractice.csproj.CoreCompileInputs.cache
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\obj\Debug\AlgorithmPractice.exe
+D:\GD_algostudy\[1주차]알고리즘분석, 1차원 배열\신소연\Baekjoons\AlgorithmPractice\obj\Debug\AlgorithmPractice.pdb
