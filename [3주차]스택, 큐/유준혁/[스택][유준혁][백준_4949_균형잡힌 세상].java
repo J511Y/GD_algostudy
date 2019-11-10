@@ -9,14 +9,14 @@ public class baekjoon_4949 {
 			byte [] arr = s.getBytes();
 			boolean print = true;
 			for(byte b : arr) {
-				if(b=='(' || b=='[') stk.push(b);
-				else if(b==')') {
-					if(stk.size()==0 || stk.peek()=='[') {
+				if(b == '(' || b == '[') stk.push(b);
+				else if(b == ')') {
+					if(stk.size() == 0 || stk.peek() == '[') {
 						System.out.println("no");
 						print=false; break;
 					}else stk.pop();
-				}else if(b==']'){
-					if(stk.size()==0 || stk.peek()=='(') {
+				}else if(b == ']'){
+					if(stk.size() == 0 || stk.peek() == '(') {
 						System.out.println("no");
 						print=false; break;
 					}else stk.pop();

@@ -9,7 +9,7 @@ public class baekjoon_9012 {
 			byte [] arr = sc.next().getBytes();
 			try {
 				for(byte b : arr) {
-					if(b=='(') stk.push(b);
+					if(b == '(') stk.push(b);
 					else stk.pop();
 				}
 			}catch(Exception e) {

@@ -9,10 +9,10 @@ public class baekjoon_10828 {
 			String s = sc.next();
 			switch(s) {
 			case "push" : stk.push(sc.nextInt()); break;
-			case "pop"  : System.out.println(stk.size()==0?-1:stk.pop()); break;
+			case "pop"  : System.out.println(stk.size()== 0 ? -1 : stk.pop()); break;
 			case "size" : System.out.println(stk.size()); break;
-			case "empty": System.out.println(stk.empty()?1:0); break;
-			case "top"  : System.out.println(stk.size()==0?-1:stk.peek()); break;
+			case "empty": System.out.println(stk.empty() ? 1 : 0); break;
+			case "top"  : System.out.println(stk.size() == 0 ? -1 : stk.peek()); break;
 			}
 		}
 	}

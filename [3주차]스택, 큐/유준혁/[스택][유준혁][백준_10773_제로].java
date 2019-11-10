@@ -5,13 +5,13 @@ public class baekjoon_10773 {
 		Scanner sc = new Scanner(System.in);
 		Stack<Integer> stk = new Stack<>();
 		int rnd = sc.nextInt();
-		while(rnd-->0) {
+		while (rnd-->0) {
 			int i = sc.nextInt();
-			if(i==0) stk.pop();
+			if(i == 0) stk.pop();
 			else stk.push(i);
 		}
 		int sum = 0;
-		for(int i : stk) sum+=i;
+		for (int i : stk) sum += i;
 		System.out.println(sum);
 	}
 }
