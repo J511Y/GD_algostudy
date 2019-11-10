@@ -17,7 +17,6 @@ public class prgmers_42583 {
         	}
         	answer++; // 1초 증가했다는 의미의 ++
         }
-        while(bridge.size() != 1) bridge.poll(); // 대기중인 트럭이 모두 올라갔다면 제일 마지막에 오른 트럭을 제외하고 모두 빼버린다.
         return answer + bridge_length; // 현재까지 소요 된 시간 + 제일 마지막 트럭은 오르자 마자 반복문을 끝냈으므로 다리 길이 만큼의 시간이 더 필요함. 따라서 다리 길이 만큼 시간을 더해줌.
     }
 	public static void main(String[] args) {
